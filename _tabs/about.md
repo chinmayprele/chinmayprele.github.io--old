@@ -13,3 +13,14 @@ This is to test the about page -- CPRELE edit
 0. second item
 0. another item
 {: reversed="reversed"}
+
+A paragraph of Markdown text
+
+<ol reversed>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+More Markdown text.
+
