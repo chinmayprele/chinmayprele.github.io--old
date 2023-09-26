@@ -17,9 +17,14 @@ The following annotations only apply to published/completed works
 
 ## Posters
 
-0. 
+0. Giunta A.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2021) _An Analysis of the Rate of Evolution of tgo in the Insulin Signaling Pathway of Drosophila_, Undergraduate Research and Creative Activity Conference 2020, University of Alabama
+0. Yordy J.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2021) _Analysis of the Evolutionary Rate of Insulin Signaling Pathway Gene trbl within Drosophila Species_, Undergraduate Research and Creative Activity Conference 2020, University of Alabama
+0. Sharp M.A.∪, Chamberlain M.S.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2021) _Investigating the Molecular Evolution of Akt1 in Comparison to the Insulin Signaling Pathway_, Undergraduate Research and Creative Activity Conference 2020, University of Alabama
+0. Tan M.∪, Kiser C.A.∪, Price A.G.∪, Keirn G.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2020) _An Analysis of the Tor Gene in the Insulin Signalling Pathway of D. melanogaster to Determine the Conservation of Genes_, Undergraduate Research and Creative Activity Conference 2020, University of Alabama
+0. Hale T.∪, Sharp M.∪, Lose B.∪, Chamberlain M.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2020) _Analyzing the evolutionary rate of chico relative to its position in the insulin signaling pathway_, Undergraduate Research and Creative Activity Conference 2020, University of Alabama
+0. <span style="background-color: #70707030">**Rele C.P.**</span>, Ellison C.E.(2019) _Understanding The Evolutionary Dynamics Of Transposable Elements in Drosophila Via de novo Identification and Classification_, Aresty Research Symposium, Rutgers University  
+0. <span style="background-color: #70707030">**Rele C.P.**</span>, Ellison C.E.(2018) _Understanding Genetic Variation in the Repetitive Sequence Content of Drosophila melanogaster_, Aresty Research Symposium, Rutgers University
 {: reversed="reversed"}
-
 
 ## Presentations
 
