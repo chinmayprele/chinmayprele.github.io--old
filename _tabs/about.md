@@ -14,7 +14,7 @@ We will be using species within the _Drosophila_ phylogeny as our model organism
 
 I hope to expand what I learn about genomic network structure to _Hominidae_ in the future.
 
-A PDF version of my CV may be found [here](/assets/pdfs/rele_cv.pdf).
+A PDF version of my CV may be found [here](/assets/pdfs/cv/rele_cv.pdf).
 
 
 <style>
