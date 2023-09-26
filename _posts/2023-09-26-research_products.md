@@ -17,6 +17,10 @@ The following annotations only apply to published/completed works
 
 ## Posters
 
+0. Yordy J.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _Analysis of the Evolutionary Rate of the Insulin Signaling Pathway Gene trbl Within Drosophila Species_, Undergraduate Research and Creative Activity Conference 2022, University of Alabama
+0. Myers A.∪, Koehler A.C.∪, Backlund A.E.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _Comparative Analysis of Node Degreeon Gene Evolution in the Insulin Signaling Pathway_, Undergraduate Research and Creative Activity Conference 2022, University of Alabama
+0. Shelley-Tremblay S.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2021) _Analysis of dock in Drosophila Species_, Undergraduate Research and Creative Activity Conference 2021, University of Alabama
+0. Hoffman S.A.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2021) _Analysing the Evolutionary rate of wrd in Connection to its Position in the Insulin Signaling Pathway_, Undergraduate Research and Creative Activity Conference 2021, University of Alabama
 0. Giunta A.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2021) _An Analysis of the Rate of Evolution of tgo in the Insulin Signaling Pathway of Drosophila_, Undergraduate Research and Creative Activity Conference 2020, University of Alabama
 0. Yordy J.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2021) _Analysis of the Evolutionary Rate of Insulin Signaling Pathway Gene trbl within Drosophila Species_, Undergraduate Research and Creative Activity Conference 2020, University of Alabama
 0. Sharp M.A.∪, Chamberlain M.S.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2021) _Investigating the Molecular Evolution of Akt1 in Comparison to the Insulin Signaling Pathway_, Undergraduate Research and Creative Activity Conference 2020, University of Alabama
