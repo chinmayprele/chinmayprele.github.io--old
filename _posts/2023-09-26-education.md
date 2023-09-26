@@ -1,5 +1,5 @@
 ---
-title: Scientific Employment
+title: Education
 date: 2023-09-26 16:37:00 -0500
 categories: [formal education]
 tags: [employment, science]     # TAG names should always be lowercase
