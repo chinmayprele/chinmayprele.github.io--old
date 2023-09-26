@@ -1,6 +1,6 @@
 ---
 title: Awards and Honors
-date: 2023-09-26 11:33:00 -0500
+date: 2023-09-26 11:33:00 -050
 categories: [awards]
 tags: [awards, travel]     # TAG names should always be lowercase
 author: cprele
