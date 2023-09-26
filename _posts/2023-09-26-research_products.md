@@ -17,6 +17,20 @@ The following annotations only apply to published/completed works
 
 ## Posters
 
+0. 
+0. 
+0. 
+0. 
+0. 
+0. 
+0. 
+0. 
+0. 
+0. 
+0. 
+0. 
+0. Myers A.∪, Koehler A.C.∪, Backlund A.E.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _Comparative Analysis of Node Degree on Gene Evolution in the Insulin Signaling Pathway_, Genetics Society of America, _Drospohila_ Conference 2022
+0. Sandlin, K.M., Leung, W., **Rele, C.P.**, Reed, L.K. 2022. _The Genomics Education Partnership : Democratizing Genomics Research Experiences Nationwide_. Poster presented at the National Association of Biology Teachers meeting. Indianapolis, IN.
 0. Yordy J.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _Analysis of the Evolutionary Rate of the Insulin Signaling Pathway Gene trbl Within Drosophila Species_, Undergraduate Research and Creative Activity Conference 2022, University of Alabama
 0. Myers A.∪, Koehler A.C.∪, Backlund A.E.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _Comparative Analysis of Node Degreeon Gene Evolution in the Insulin Signaling Pathway_, Undergraduate Research and Creative Activity Conference 2022, University of Alabama
 0. Shelley-Tremblay S.∪, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2021) _Analysis of dock in Drosophila Species_, Undergraduate Research and Creative Activity Conference 2021, University of Alabama
