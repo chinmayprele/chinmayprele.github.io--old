@@ -34,7 +34,7 @@ These articles have been published and are available at the links provided if an
 
 #### Articles
 
-0. 
+0. David Lopatto, S. Catherine Silver Key, Melanie Van Stry, Jamie Siders, Wilson Leung, Katie M. Sandlin, <span style="background-color: #70707070">**Chinmay P. Rele**</span>, The Genomics Education Partnership, Laura K. Reed (2023). _Supporting the democratization of science during a pandemic: genomics Course-based Undergraduate Research Experiences (CUREs) as an effective remote learning strategy_. Journal of Microbiology & Biology Education [10.1128/jmbe.00039-23](https://doi.org/10.1128/jmbe.00039-23). PMID: [](); PMCID[](): 
 {: reversed="reversed"}
 
 #### microPublications
