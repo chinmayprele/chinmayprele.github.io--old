@@ -22,6 +22,8 @@ pin: true
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 <!-- Fall 2020 -->
+0. Rachael A. Cowan @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Fall 2021_
+0. Abigail Ruesy @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Spring 2021_
 0. Samantha A. Hoffman[^samanthaahoffman] @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Spring 2021_
 0. Sean Shelley-Tremblay @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Fall 2021_
 0. Ines Martinand @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Spring 2021_
