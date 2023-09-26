@@ -13,24 +13,8 @@ pin: true
 
 # Undergraduate Students
 
-### University of Alabama
-<ol reversed start="3">
+## Research Mentorship
 
-<li>test</li>
-<li>test</li>
-<li>test</li>
-<li>test</li>
-<li>test</li>
-<li>test</li>
-
-</ol>
-
-
-### Rutgers University, New Brunswick, NJ
-<ol reversed>
-
-<li>Rohith Kari; Rutgers University, NJ <p align="right">Spring 2018</align></li>
-<li>Eric Chai; Rutgers University, NJ <p align="right">Spring 2018</align></li>
-
-</ol>
-
+0. Rohith Kari, Rutgers University &nbsp; _Spring 2018_
+0. Eric Chai, Rutgers University &nbsp; _Spring 2018_
+{: reversed="reversed"}
