@@ -10,5 +10,13 @@ mermaid: false
 pin: false
 ---
 
-0. test
+## Scientific Service
+
+0. Singapore Science Center, Teaching Volunteer, Singapore _May 2014 &rarr; Present_
+{: reversed="reversed"}
+
+## Professional Societies
+
+0. Society for Molecular Biology and Evolution _2022 &rarr; Present_
+0. Genetics Society of America _2019 &rarr; Present_
 {: reversed="reversed"}
