@@ -1,6 +1,6 @@
 ---
 title: Mentorship
-date: 2023-09-26 11:33:00 +0800
+date: 2023-09-25 11:33:00 +0800
 categories: [mentorship, persons]
 tags: [student, person, gep, research]     # TAG names should always be lowercase
 author: cprele
@@ -9,7 +9,6 @@ comments: false
 mermaid: false
 pin: false
 ---
-
 
 ## Undergraduate Students
 
