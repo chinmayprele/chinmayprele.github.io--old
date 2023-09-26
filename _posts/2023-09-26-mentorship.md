@@ -22,6 +22,11 @@ pin: true
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 <!-- Fall 2020 -->
+0. Samantha A. Hoffman[^samanthaahoffman] @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Spring 2021_
+0. Sean Shelley-Tremblay @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Fall 2021_
+0. Ines Martinand @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Spring 2021_
+0. Abbie A. Giunta @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Spring 2023_
+0. John M. Yordy @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Spring 2023_
 0. Leon F. Laskowski[^leonflaskowski]@ University of St. Francis, IL &nbsp; _Fall 2020 &rarr; Summer 2021_
 <!-- Summer 2020 -->
 0. Abigail R. Myers[^abigailrmyers] @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Summer 2022_
@@ -45,3 +50,4 @@ pin: true
 [^madisonasharp]: _Current Position_: Bioinformatics Specialist at Georgetown University; Georgetown, D.C. _2023_
 [^abigailrmyers]: _Current Position_: Research Technician, Howard Hughes Medical Institute; Ashburn, VA _2023_
 [^leonflaskowski]: _Current Position_: PULSe Ph.D. Candidate, Lyon Lab; Perdue University, PA _2023_
+[^samanthaahoffman]: _Award(s)): URCA 2021, 1<sup>st</sup> Place Completed Research 
