@@ -10,8 +10,10 @@ mermaid: false
 pin: false
 ---
 
+The following annotations only apply to published/completed works
 - Award-winning products <u>underlined</u>
 - Correspondence <span style="background-color: #70707070">highlighted</span>
+- Undergraduate author in superscript<sup>U</sup>
 
 ## Posters
 
