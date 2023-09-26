@@ -11,9 +11,9 @@ pin: true
 ---
 
 
-# Undergraduate Students
+## Undergraduate Students
 
-## Research Mentorship
+### Research Mentorship
 
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
@@ -40,7 +40,7 @@ pin: true
 {: reversed="reversed"}
 
 ---
-# Footnotes
+## Footnotes
 
 [^madisonasharp]: _Current Position_: Bioinformatics Specialist at Georgetown University; Georgetown, D.C. _2023_
 [^abigailrmyers]: _Current Position_: Research Technician, Howard Hughes Medical Institute; Ashburn, VA _2023_
