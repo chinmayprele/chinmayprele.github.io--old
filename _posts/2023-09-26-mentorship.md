@@ -29,8 +29,8 @@ pin: true
 ### Rutgers University, New Brunswick, NJ
 <ol reversed>
 
-<li>Rohith Kari; Rutgers University, NJ</li>
-<li>Eric Chai; Rutgers University, NJ</li>
+<li>Rohith Kari; Rutgers University, NJ <p align="right">Spring 2018</align></li>
+<li>Eric Chai; Rutgers University, NJ <p align="right">Spring 2018</align></li>
 
 </ol>
 
