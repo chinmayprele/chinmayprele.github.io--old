@@ -13,9 +13,18 @@ pin: true
 
 # Undergraduate Students
 
+### University of Alabama
+<ol reversed start="3">
+
+<li>test</li>
+<li>test</li>
+
+</ol>
+
+
+### Rutgers University, New Brunswick, NJ
 <ol reversed>
 
-<li></li>
 <li>Rohith Kari; Rutgers University, NJ</li>
 <li>Eric Chai; Rutgers University, NJ</li>
 
