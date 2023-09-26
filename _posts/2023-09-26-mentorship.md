@@ -21,10 +21,11 @@ pin: true
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
-0. @ University of Alabama, AL &nbsp; _Spring 2020_
-0. @ University of Alabama[^abigailrmyers], AL &nbsp; _Spring 2020_
+<!-- Fall 2020 -->
+0. Leon F. Laskowski[^leonflaskowski]@ University of St. Francis, IL &nbsp; _Fall 2020 &rarr; Summer 2021_
 <!-- Summer 2020 -->
 0. Abigail R. Myers[^abigailrmyers] @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Summer 2022_
+0. Robyn Huber @ Bemidji State University, MN &nbsp; _Summer 2020_
 <!-- Spring 2020 -->
 0. Bailey Lose @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Spring 2021_
 0. Madison A. Sharp[^madisonasharp] @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Spring 2021_
@@ -39,8 +40,8 @@ pin: true
 0. Eric Chai @ Rutgers University, NJ &nbsp; _Summer 2018_
 {: reversed="reversed"}
 
----
 ## Footnotes
 
 [^madisonasharp]: _Current Position_: Bioinformatics Specialist at Georgetown University; Georgetown, D.C. _2023_
 [^abigailrmyers]: _Current Position_: Research Technician, Howard Hughes Medical Institute; Ashburn, VA _2023_
+[^leonflaskowski]: _Current Position_: PULSe Ph.D. Candidate, Lyon Lab; Perdue University, PA _2023_
