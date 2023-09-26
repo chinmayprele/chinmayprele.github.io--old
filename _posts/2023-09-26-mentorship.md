@@ -20,7 +20,11 @@ pin: true
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
-0. @ University of Alabama, AL &nbsp; _Spring 2020_
+<!-- Spring 2021 -->
+0. Ethan Abizadeh @ Yeshiva University, NY &nbsp; _Spring 2021_
+0. Annie E. Backlund @ University of Alabama, AL &nbsp; _Spring 2021 &rarr; Spring 2023_
+0. Jordan Albrecht @ University of Alabama, AL &nbsp; _Spring 2021 &rarr; Spring 2023_
+0. Allie J. Miller @ University of Alabama, AL &nbsp; _Spring 2021 &rarr; Fall 2021_
 <!-- Fall 2020 -->
 0. Rachael A. Cowan @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Fall 2021_
 0. Abigail Ruesy @ University of Alabama, AL &nbsp; _Fall 2020 &rarr; Spring 2021_
