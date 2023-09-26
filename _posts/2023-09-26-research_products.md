@@ -94,7 +94,7 @@ They are available upon request.
 
 These publications are either in the process of being drafted, or have been drafted and are waiting to be submitted, or have been submitted and are in need of peer review.
 
-0. Anne E. Backlund, Mahi Patel, Reece Lawlor, John Stanga, Paula Croonquist, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DbusGB1_GlyP</i> (2023)
+<!-- 0. Anne E. Backlund, Mahi Patel, Reece Lawlor, John Stanga, Paula Croonquist, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DbusGB1_GlyP</i> (2023)
 0. Anne E. Backlund, , , <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DbusGB1_chico</i> (2023)
 0. , , , <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DanaCAF1_dock</i> (2023)
 0. Megan E. Lawson, Samuel L. Ranger, Mollie Manier, Sarah Justice, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DsimGB2_melt</i> (2023)
@@ -606,5 +606,5 @@ These publications are either in the process of being drafted, or have been draf
 0. Abigail (Abby) Myers, Madeline L. Gruys, Amber Marie Richardson, Isaac Romo, James J. Youngblom, Laura K. Reed, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DanaCAF1_GlyS</i> (2021)
 0. Abigail (Abby) Myers, Bailey Lose, Nick Meyers, Laura K. Reed, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DwilCAF1_chico</i> (2021)
 0. Abigail (Abby) Myers, Alexa Hokenstad, Mindy Natysin, Andrew M Arsham, Joyce Stamm, <span style="background-color: #70707030">**Rele C.P.**</span>, <i>DanaCAF1_Myc</i> (2021)
-{: reversed="reversed"}
+{: reversed="reversed"} -->
 
