@@ -22,7 +22,7 @@ pin: true
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
-0. @ University of Alabama, AL &nbsp; _Spring 2020_
+0. @ University of Alabama[^abigailrmyers], AL &nbsp; _Spring 2020_
 <!-- Summer 2020 -->
 0. Abigail R. Myers[^abigailrmyers] @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Summer 2022_
 <!-- Spring 2020 -->
