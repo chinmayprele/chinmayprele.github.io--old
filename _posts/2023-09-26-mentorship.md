@@ -14,7 +14,7 @@ pin: true
 # Undergraduate Students
 
 ### University of Alabama
-<ol reversed start="3">
+<ol reversed end="3">
 
 <li>test</li>
 <li>test</li>
