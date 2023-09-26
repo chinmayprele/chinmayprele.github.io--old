@@ -11,7 +11,7 @@ pin: false
 ---
 
 - Award-winning products <u>underlined</u>
-- Correspondence ==highlighted== <mark>highlighted2</mark>
+- Correspondence <span style="background-color: #70707070">highlighted</span>
 
 ## Posters
 
