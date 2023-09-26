@@ -20,7 +20,7 @@ A PDF version of my CV may be found [here](/assets/pdfs/rele_cv.pdf).
 <style>
   .google-maps {
     position: relative;
-    padding-bottom: 25%; // This is the aspect ratio
+    padding-bottom: 75%; // This is the aspect ratio
     height: 0;
     overflow: hidden;
   }
