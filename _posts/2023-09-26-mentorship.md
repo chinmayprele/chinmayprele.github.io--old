@@ -26,7 +26,7 @@ pin: true
 0. @ University of Alabama, AL &nbsp; _Spring 2020_
 <!-- Spring 2020 -->
 0. Bailey Lose @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Spring 2021_
-0. Madison A. Sharp @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Spring 2021_
+0. Madison A. Sharp [^1] @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Spring 2021_
 0. McKenzie S. Chamberlain @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Spring 2023_
 0. Grace Kiern @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Spring 2023_
 0. Anna-Grace Price @ University of Alabama, AL &nbsp; _Spring 2020 &rarr; Spring 2022_
@@ -37,3 +37,5 @@ pin: true
 0. Rohith Kari @ Rutgers University, NJ &nbsp; _Summer 2018_
 0. Eric Chai @ Rutgers University, NJ &nbsp; _Summer 2018_
 {: reversed="reversed"}
+
+[^1] _Current Position_: Bioinformatics Specialist at Georgetown University; Georgetown, D.C.
