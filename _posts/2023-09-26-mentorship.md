@@ -1,13 +1,13 @@
 ---
 title: Mentorship
 date: 2023-09-26 11:33:00 +0800
-categories: [student, research]
-tags: [student, persons]     # TAG names should always be lowercase
+categories: [mentorship, persons]
+tags: [student, person, gep, research]     # TAG names should always be lowercase
 author: cprele
 toc: true
 comments: false
 mermaid: false
-pin: true
+pin: false
 ---
 
 
@@ -15,10 +15,13 @@ pin: true
 
 ### Research Mentorship
 
-0. **** University of Alabama, AL _Spring 2020_
-0. **** University of Alabama, AL _Spring 2020_
-0. **** University of Alabama, AL _Spring 2020_
+<!-- Fall 2022 -->
+0. **Madeline L. Gruys** Bemidji State University, Bemidji, MN _Fall 2020 &rarr; Present_
+0. **Bethany C. Lieser** Anoka-Ramsey Community College, Cambridge, MN _Fall 2020 &rarr; Present_
 <!-- Summer 2022 -->
+0. **Graham M. Jones** University of Alabama, AL _Summer 2022 &rarr; Spring 2023_
+0. **Megan E. Lawson** University of Alabama, AL _Summer 2022 &rarr; Present_
+0. **Gabriella N. Bickanovsky** University of Alabama, AL _Summer 2022 &rarr; Present_
 0. **Jamarcus D. Monroe** University of Alabama, AL _Summer 2022_
 <!-- Fall 2021 -->
 0. **Johan Silverman** Muhlenberg College, PA _Fall 2021 &rarr; Fall 2022_
