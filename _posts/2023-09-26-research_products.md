@@ -28,7 +28,7 @@ The following annotations only apply to published/completed works
 0. Sandlin, K.M., Leung, W., **Rele, C.P.**, Reed, L.K. (2022). Overview of the Genomics Education Partnership. QUBES Educational Resources. doi: [10.25334/ZNHZ-BP15](https://qubeshub.org/publications/3569/1)
 <!-- GSA - #Dros22 2022 -->
 0. Diotti R., Arrigo C., Burg M.G., DiAngelo J.R., Elgin S.C.R, Ellison C.E., Jones, C.J., Kennel J., Leatherman J., Leung W., Lopatto D., Mingo V., Reed L.K., **Rele C.P.**, Sandlin K.M., Siders J., Velazquez-Ulloa N.V.-U., _The Genomics Education Partnership (2022) The Genomics Education Partnership: Teaching and Research Opportunities_, Genetics Society of America, _Drospohila_ Conference 2022, San Diego CA
-0. <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _Correlating Regulatory Region and Genetic Evolution_, Genetics Society of America, _Drospohila_ Conference 2022, San Diego CA
+0. <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) [_Correlating Regulatory Region and Genetic Evolution_](/assets/pdfs/posters/droscon2022.pdf), Genetics Society of America, _Drospohila_ Conference 2022, San Diego CA
 0. Myers A.<sup>U</sup>, Koehler A.C.<sup>U</sup>, Backlund A.E.<sup>U</sup>, <span style="background-color: #70707030">**Rele C.P.**</span>, Reed L.K. (2022) _Comparative Analysis of Node Degree on Gene Evolution in the Insulin Signaling Pathway_, Genetics Society of America, _Drospohila_ Conference 2022, San Diego CA
 0. Sandlin, K.M., Leung, W., **Rele, C.P.**, Reed, L.K. 2022. _The Genomics Education Partnership : Democratizing Genomics Research Experiences Nationwide_. Poster presented at the National Association of Biology Teachers meeting. Indianapolis, IN.
 <!-- UA - URCA 2022 -->
