@@ -15,7 +15,8 @@ We will be using species within the _Drosophila_ phylogeny as our model organism
 I hope to expand what I learn about genomic network structure to _Hominidae_ in the future.
 
 A PDF version of my CV may be found [here](/assets/pdfs/cv/rele_cv.pdf).
-
+This contains information about my [education](https://chinmayprele.github.io/posts/education/), [scientific employment](https://chinmayprele.github.io/posts/scientific-employment/), [sources of funding](https://chinmayprele.github.io/posts/funding/), [research products](https://chinmayprele.github.io/posts/research_products/), [scientific sercive and professional societies](https://chinmayprele.github.io/posts/service-and-societies/), [awards and honors](https://chinmayprele.github.io/posts/awards-and-honors/), and [mentorship](https://chinmayprele.github.io/posts/mentorship/) on this website.
+It is more likely that the website will be updated rather than the CV, but the CV provides a condensed version of my scientific profile.
 
 <style>
   .google-maps {
